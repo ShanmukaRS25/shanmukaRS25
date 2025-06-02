@@ -83,11 +83,9 @@ Engineered a network-based system for contact suggestions using centrality and s
 
 ## 🔗 Connect With Me 
 
-<a href="https://linkedin.com/in/shanmuka-srikar"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  width="24" height="24" /></a>&nbsp;
-<a href="mailto:shanmukasrikar25@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"  width="24" height="24" /></a>&nbsp;
-<a href="https://twitter.com/ShanmukaSrikar_"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"  width="24" height="24" /></a>&nbsp;
-<a href="https://dev.to/shanmukasrikar"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/devdotto.svg"  width="24" height="24" /></a>&nbsp;
-<a href="https://medium.com/@shanmukasrikar25"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg"  width="24" height="24" /></a>
+
+<a href="mailto:shanmukasrikar99@gmail.com"><img src="[https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg](https://i.pinimg.com/736x/26/c7/08/26c7089c48f9bb763e9cca3db502bd57.jpg)"  width="24" height="24" /></a>&nbsp;
+
 
 ---
 
