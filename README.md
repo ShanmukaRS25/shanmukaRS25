@@ -1,55 +1,101 @@
-## 👋 Hi there!
+# 👋 Hi, I'm Shanmuka Srikar | Python Developer & ML Engineer 💻🧠
 
-Welcome to my GitHub! I'm glad you're here.
+> *"Code is poetry. Data is power."*
 
----
-
-# 💫 About Me
-
-I'm **Shanmuka Srikar**, a passionate and results-driven **Python Developer and Machine Learning Engineer** with over **2 years of hands-on experience** building real-world software and AI solutions. I specialize in turning complex data into actionable insights and scalable applications.
+I'm a passionate **Python Developer** and **Machine Learning Engineer** with 2+ years of experience building scalable applications and intelligent systems. My work revolves around transforming complex data into meaningful insights and robust software solutions.
 
 ---
 
-## 💡 Areas of Expertise
+## 🚀 What I Do
 
-- **Python Development** – Clean, modular, production-ready code for web, automation, and desktop applications  
-- **Machine Learning & NLP** – Intelligent systems for classification, sentiment analysis, and information retrieval  
-- **Data Engineering** – Data cleaning, preprocessing, EDA, and feature engineering using Pandas & SQL  
-- **AI/LLM Integration** – Langchain, Groq API, Retrieval-Augmented Generation (RAG), chatbot development  
-- **Web & GUI Applications** – Flask, FastAPI, Streamlit, PyQt5 for intuitive, interactive user interfaces  
-- **Graph Mining** – Network-based similarity, link prediction, and graph centrality analysis for recommendations  
-
----
-
-## 🔧 Tools & Technologies
-
-`Python`, `Pandas`, `Scikit-learn`, `Langchain`, `OpenCV`, `Flask`, `FastAPI`, `Streamlit`, `PyQt5`  
-`MySQL`, `MongoDB`, `Git`, `Jupyter`, `Linux`
+- **Python Development** – Writing clean, modular, production-ready code for web apps, automation, and desktop tools.
+- **Machine Learning & NLP** – Building classifiers, chatbots, sentiment analyzers, and information retrieval systems.
+- **Data Engineering** – Preprocessing, EDA, feature engineering using Pandas, NumPy, SQL.
+- **AI/LLM Integration** – Langchain, Groq API, Retrieval-Augmented Generation (RAG), and LLM-powered tools.
+- **Web & GUI Applications** – Flask, FastAPI, Streamlit, PyQt5 for intuitive user experiences.
+- **Graph Mining** – Feature extraction, link prediction, and similarity analysis for recommendation systems.
 
 ---
 
-## 🧠 Projects & Impact
+## 🛠 Tech Stack
 
-- 🚀 **Drug Review Sentiment Analysis** – Built an NLP pipeline to classify patient sentiment on medications (Alnylam Pharmaceuticals)  
-- 🔍 **WMS SOP Search Engine** – Developed a keyword-based SOP document retrieval engine with contextual previews  
-- 🖼️ **CAD File Comparison Tool** – Created a GUI tool using PyQt & OpenCV to highlight image differences in industrial CAD files  
-- 🔗 **Graph-based Contact Recommendation System** – Designed a link prediction engine using centrality metrics and graph features
+[![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54&style=for-the-badge)](https://docs.python.org/3/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-005571?logo=fastapi&style=for-the-badge)](https://fastapi.tiangolo.com/)
+[![Flask](https://img.shields.io/badge/flask-%23000?logo=flask&logoColor=white&style=for-the-badge)](https://flask.palletsprojects.com/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B?logo=streamlit&style=for-the-badge)](https://docs.streamlit.io/)
+[![Langchain](https://img.shields.io/badge/LangChain-white?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNDAwIDI0MDAiPjxwYXRoIGZpbGw9IiMwMDU1REMiIGQ9Ik0wIDBoMjQwMHYyNDAsTDAgMjQwMHptMTgxNiAxMjBsLTk2MCA5NjAtOTYwLTk2MHYtMjQwbDk2MCA5NjAgOTYwLTk2MHoiLz48L3N2Zz4=&style=for-the-badge)](https://python.langchain.com/docs/)
+[![Pandas](https://img.shields.io/badge/pandas-%23150458?logo=pandas&style=for-the-badge)](https://pandas.pydata.org/docs/)
+[![NumPy](https://img.shields.io/badge/numpy-%23013243?logo=numpy&logoColor=white&style=for-the-badge)](https://numpy.org/doc/)
+[![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E?logo=scikit-learn&style=for-the-badge)](https://scikit-learn.org/stable/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00?logo=tensorflow&style=for-the-badge)](https://www.tensorflow.org/api_docs)
+[![OpenCV](https://img.shields.io/badge/opencv-%23white?logo=opencv&logoColor=white&style=for-the-badge)](https://docs.opencv.org/)
+[![Git](https://img.shields.io/badge/git-%23F05033?logo=git&style=for-the-badge)](https://git-scm.com/book/en/v2)
+[![GitHub](https://img.shields.io/badge/github-%23121011?logo=github&logoColor=white&style=for-the-badge)](https://docs.github.com/en)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&style=for-the-badge)](https://kernel.org/doc/)
+[![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D?logo=windows-terminal&style=for-the-badge)](https://learn.microsoft.com/en-us/windows/terminal/)
+[![LaTeX](https://img.shields.io/badge/latex-%23008080?logo=latex&style=for-the-badge)](https://www.latex-project.org/help/documentation/)
+[![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4?logo=google-cloud&style=for-the-badge)](https://cloud.google.com/docs)
+[![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900?logo=nVIDIA&style=for-the-badge)](https://developer.nvidia.com/cuda-zone)
 
 ---
 
-📫 **Let’s connect:**  
-🔗 [LinkedIn](https://www.linkedin.com/in/shanmukasrikar)  
-💻 Explore my pinned projects and repositories below!
+## 🌟 Featured Projects 
 
+### 💊 Drug Review Sentiment Analysis
+Built an ML pipeline to classify patient feedback for Alnylam Pharmaceuticals using NLP techniques.
 
+### 📄 WMS SOP Search Engine
+Created a document search engine to retrieve regulatory documents with contextual keyword highlighting.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=for-the-badge) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white)
-# 📊 GitHub Stats:
+### 📐 CAD File Comparison Tool
+Developed a PyQt5-based tool using OpenCV to validate industrial design files.
 
-![](https://nirzak-streak-stats.vercel.app/?user=shanmuka_RS25&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shanmuka_RS25&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### 🤝 Graph-based Contact Recommendation System
+Engineered a network-based system for contact suggestions using centrality and similarity metrics.
 
+[🔍 View More on GitHub](https://github.com/shanmuka_RS25) 
 
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📊 GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/shanmuka_RS25"> 
+    <img src="https://github-readme-stats.vercel.app/api?username=shanmuka_RS25&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+  </a>
+  <a href="https://github.com/shanmuka_RS25">
+    <img src="https://nirzak-streak-stats.vercel.app/?user=shanmuka_RS25&theme=dark&hide_border=false" />
+  </a>
+  <a href="https://github.com/shanmuka_RS25">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanmuka_RS25&theme=dark&hide_border=false&layout=compact" />
+  </a>
+</div>
+
+---
+
+## 🧠 Random Dev Quote 
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random dev quote" />
+</div>
+
+---
+
+## 🔗 Connect With Me 
+
+<a href="https://linkedin.com/in/shanmuka-srikar"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  width="24" height="24" /></a>&nbsp;
+<a href="mailto:shanmukasrikar25@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"  width="24" height="24" /></a>&nbsp;
+<a href="https://twitter.com/ShanmukaSrikar_"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"  width="24" height="24" /></a>&nbsp;
+<a href="https://dev.to/shanmukasrikar"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/devdotto.svg"  width="24" height="24" /></a>&nbsp;
+<a href="https://medium.com/@shanmukasrikar25"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg"  width="24" height="24" /></a>
+
+---
+
+## 🎮 A Little Fun Side
+
+🎮 Gamer at heart – PSN, Steam, Xbox, and Unreal Engine lover!
+
+---
+
+Made with ❤️ using Markdown, GitHub Actions, and open-source tools  
+Theme: **Cyberpunk Style** | Proudly powered by [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) 
