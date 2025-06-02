@@ -1,7 +1,46 @@
-## Hi there 👋
+## 👋 Hi there!
 
-# 💫 About Me:
-## 👋 About Me<br><br>I'm **Shanmuka Srikar**, a passionate and results-driven **Python Developer and Machine Learning Engineer** with 2+ years of hands-on experience building real-world software and AI solutions. I specialize in turning complex data into actionable insights and scalable applications.<br><br>### 💡 Areas of Expertise<br>- **Python Development** – Clean, modular, production-ready code for web, automation, and desktop applications<br>- **Machine Learning & NLP** – Building intelligent systems for classification, sentiment analysis, and information retrieval<br>- **Data Engineering** – Data cleaning, preprocessing, exploratory analysis, and feature engineering using Pandas & SQL<br>- **AI/LLM Integration** – Langchain, Groq API, Retrieval-Augmented Generation (RAG), and chatbot development<br>- **Web & GUI Applications** – Flask, FastAPI, Streamlit, PyQt5 for delivering intuitive, interactive user experiences<br>- **Graph Mining** – Network-based feature extraction, link prediction, and similarity analysis for recommendation systems<br><br>### 🔨 Tools & Technologies<br>`Python`, `Pandas`, `Scikit-learn`, `Langchain`, `OpenCV`, `Flask`, `FastAPI`, `Streamlit`, `PyQt5`,  <br>`MySQL`, `MongoDB`, `Git`, `Jupyter`, `Linux`<br><br>### 🧠 Projects & Impact<br>- Built a **Drug Review Sentiment Analysis** pipeline to classify patient feedback for Alnylam Pharmaceuticals<br>- Developed a **WMS SOP Search Engine** to retrieve regulatory documents with contextual keyword highlighting<br>- Created a **CAD File Comparison Tool** using PyQt and OpenCV for design validation in industrial workflows<br>- Engineered a **Graph-based Contact Recommendation System** using centrality scores and similarity metrics<br><br>---<br><br><br>
+Welcome to my GitHub! I'm glad you're here.
+
+---
+
+# 💫 About Me
+
+I'm **Shanmuka Srikar**, a passionate and results-driven **Python Developer and Machine Learning Engineer** with over **2 years of hands-on experience** building real-world software and AI solutions. I specialize in turning complex data into actionable insights and scalable applications.
+
+---
+
+## 💡 Areas of Expertise
+
+- **Python Development** – Clean, modular, production-ready code for web, automation, and desktop applications  
+- **Machine Learning & NLP** – Intelligent systems for classification, sentiment analysis, and information retrieval  
+- **Data Engineering** – Data cleaning, preprocessing, EDA, and feature engineering using Pandas & SQL  
+- **AI/LLM Integration** – Langchain, Groq API, Retrieval-Augmented Generation (RAG), chatbot development  
+- **Web & GUI Applications** – Flask, FastAPI, Streamlit, PyQt5 for intuitive, interactive user interfaces  
+- **Graph Mining** – Network-based similarity, link prediction, and graph centrality analysis for recommendations  
+
+---
+
+## 🔧 Tools & Technologies
+
+`Python`, `Pandas`, `Scikit-learn`, `Langchain`, `OpenCV`, `Flask`, `FastAPI`, `Streamlit`, `PyQt5`  
+`MySQL`, `MongoDB`, `Git`, `Jupyter`, `Linux`
+
+---
+
+## 🧠 Projects & Impact
+
+- 🚀 **Drug Review Sentiment Analysis** – Built an NLP pipeline to classify patient sentiment on medications (Alnylam Pharmaceuticals)  
+- 🔍 **WMS SOP Search Engine** – Developed a keyword-based SOP document retrieval engine with contextual previews  
+- 🖼️ **CAD File Comparison Tool** – Created a GUI tool using PyQt & OpenCV to highlight image differences in industrial CAD files  
+- 🔗 **Graph-based Contact Recommendation System** – Designed a link prediction engine using centrality metrics and graph features
+
+---
+
+📫 **Let’s connect:**  
+🔗 [LinkedIn](https://www.linkedin.com/in/shanmukasrikar)  
+💻 Explore my pinned projects and repositories below!
+
 
 
 # 💻 Tech Stack:
