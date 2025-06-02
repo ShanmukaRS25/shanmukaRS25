@@ -19,11 +19,14 @@ I'm a passionate **Python Developer** and **Machine Learning Engineer** with 2+ 
 
 ## 🛠 Tech Stack
 
+[![C](https://img.shields.io/badge/c-%2300599C?logo=c&style=for-the-badge)](https://learn.microsoft.com/en-us/cpp/c-language/)
+[![C++](https://img.shields.io/badge/c%2B%2B-%2300599C?logo=cplusplus&style=for-the-badge)](https://cplusplus.com/doc/)
+[![Assembly](https://img.shields.io/badge/assembly-%23ASM?logo=asm&style=for-the-badge)](https://en.wikipedia.org/wiki/Assembly_language)
 [![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54&style=for-the-badge)](https://docs.python.org/3/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-005571?logo=fastapi&style=for-the-badge)](https://fastapi.tiangolo.com/)
 [![Flask](https://img.shields.io/badge/flask-%23000?logo=flask&logoColor=white&style=for-the-badge)](https://flask.palletsprojects.com/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B?logo=streamlit&style=for-the-badge)](https://docs.streamlit.io/)
-[![Langchain](https://img.shields.io/badge/LangChain-white?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNDAwIDI0MDAiPjxwYXRoIGZpbGw9IiMwMDU1REMiIGQ9Ik0wIDBoMjQwMHYyNDAsTDAgMjQwMHptMTgxNiAxMjBsLTk2MCA5NjAtOTYwLTk2MHYtMjQwbDk2MCA5NjAgOTYwLTk2MHoiLz48L3N2Zz4=&style=for-the-badge)](https://python.langchain.com/docs/)
+[![Langchain](https://img.shields.io/badge/LangChain-white?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNDAwIDI0MDAiPjxwYXRoIGZpbGw9IiMwMDU1REMiIGQ9Ik0wIDBoMjQwMHYyNDAsTDAgMjQwMHpmMTgxNiAxMjBsLTk2MCA5NjAtOTYwLTk2MHYtMjQwbDk2MCA5NjAgOTYwLTk2MHoiLz48L3N2Zz4=&style=for-the-badge)](https://python.langchain.com/docs/)
 [![Pandas](https://img.shields.io/badge/pandas-%23150458?logo=pandas&style=for-the-badge)](https://pandas.pydata.org/docs/)
 [![NumPy](https://img.shields.io/badge/numpy-%23013243?logo=numpy&logoColor=white&style=for-the-badge)](https://numpy.org/doc/)
 [![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E?logo=scikit-learn&style=for-the-badge)](https://scikit-learn.org/stable/)
@@ -60,15 +63,9 @@ Engineered a network-based system for contact suggestions using centrality and s
 ## 📊 GitHub Stats
 
 <div align="center">
-<!--   <a href="https://github.com/shanmuka_RS25"> 
-    <img src="https://github-readme-stats.vercel.app/api?username=shanmuka_RS25&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
-  </a> -->
-  <a href="https://github.com/shanmuka_RS25">
+  <a href="https://github.com/shanmuka_RS25"> 
     <img src="https://nirzak-streak-stats.vercel.app/?user=shanmuka_RS25&theme=dark&hide_border=false" />
   </a>
-<!--   <a href="https://github.com/shanmuka_RS25">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanmuka_RS25&theme=dark&hide_border=false&layout=compact" />
-  </a> -->
 </div>
 
 ---
@@ -83,9 +80,22 @@ Engineered a network-based system for contact suggestions using centrality and s
 
 ## 🔗 Connect With Me 
 
-
-<a href="mailto:shanmukasrikar99@gmail.com"><img src="https://i.pinimg.com/736x/26/c7/08/26c7089c48f9bb763e9cca3db502bd57.jpg"  width="24" height="24" /></a>&nbsp;
-
+📧 **Email:** [shanmukasrikar99@gmail.com](mailto:shanmukasrikar99@gmail.com)  
+<a href="mailto:shanmukasrikar99@gmail.com">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"  width="36" height="36" />
+</a>&nbsp;
+<a href="https://linkedin.com/in/shanmuka-srikar"> 
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  width="24" height="24" />
+</a>&nbsp;
+<a href="https://twitter.com/ShanmukaSrikar_"> 
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"  width="24" height="24" />
+</a>&nbsp;
+<a href="https://dev.to/shanmukasrikar"> 
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/devdotto.svg"  width="24" height="24" />
+</a>&nbsp;
+<a href="https://medium.com/@shanmukasrikar25"> 
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg"  width="24" height="24" />
+</a>
 
 ---
 
@@ -93,4 +103,7 @@ Engineered a network-based system for contact suggestions using centrality and s
 
 🎮 Gamer at heart – PSN, Steam, Xbox, and Unreal Engine lover!
 
+---
 
+Made with ❤️ using Markdown, GitHub Actions, and open-source tools  
+Theme: **Cyberpunk Style** | Proudly powered by [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) 
