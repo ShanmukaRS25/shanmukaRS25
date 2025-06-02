@@ -66,9 +66,9 @@ Engineered a network-based system for contact suggestions using centrality and s
   <a href="https://github.com/shanmuka_RS25">
     <img src="https://nirzak-streak-stats.vercel.app/?user=shanmuka_RS25&theme=dark&hide_border=false" />
   </a>
-  <a href="https://github.com/shanmuka_RS25">
+<!--   <a href="https://github.com/shanmuka_RS25">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanmuka_RS25&theme=dark&hide_border=false&layout=compact" />
-  </a>
+  </a> -->
 </div>
 
 ---
@@ -95,7 +95,4 @@ Engineered a network-based system for contact suggestions using centrality and s
 
 🎮 Gamer at heart – PSN, Steam, Xbox, and Unreal Engine lover!
 
----
 
-Made with ❤️ using Markdown, GitHub Actions, and open-source tools  
-Theme: **Cyberpunk Style** | Proudly powered by [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) 
