@@ -60,9 +60,9 @@ Engineered a network-based system for contact suggestions using centrality and s
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/shanmuka_RS25"> 
+<!--   <a href="https://github.com/shanmuka_RS25"> 
     <img src="https://github-readme-stats.vercel.app/api?username=shanmuka_RS25&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
-  </a>
+  </a> -->
   <a href="https://github.com/shanmuka_RS25">
     <img src="https://nirzak-streak-stats.vercel.app/?user=shanmuka_RS25&theme=dark&hide_border=false" />
   </a>
