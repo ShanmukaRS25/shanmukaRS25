@@ -93,7 +93,7 @@ Designed an NLP pipeline to analyze patient feedback on prescribed drugs for Aln
 
 ## Professional / Research-Driven Project
 
-### Project: CAD File Difference Application – Python GUI Tool
+### CAD File Difference Application – Python GUI Tool
 
 - Developed a **Python GUI tool (PyQt5)** to compare and visualize differences between high-resolution CAD machine drawing images (`.tif`/`.tiff`).  
 - Designed a **dual-pane image interface** with interactive controls (Compare, Save Difference, Next, Previous, Exit) for streamlined design validation workflows.  
@@ -102,6 +102,9 @@ Designed an NLP pipeline to analyze patient feedback on prescribed drugs for Aln
 - Modularized the application into **independent components** (UI rendering, image processing, user interaction) with **robust error handling** and feedback via PyQt dialogs & structured logging. 
 - Designed and executed **comprehensive test cases** on diverse CAD drawings with varying resolutions, content structures, and edge cases to validate accuracy and stability.  
 - Delivered a **deployable Windows installer** using *Inno Setup* with a custom `.iss` script, ensuring smooth client-side installation with bundled dependencies.  
+
+The image describe the image proceesing of the machine CAD drawings and able to highlight even very fine deveations or differences
+<img width="1919" height="877" alt="image" src="https://github.com/user-attachments/assets/7e7ab49e-e215-4c97-a551-4930bdb7b3be" />
 
 ---
 
