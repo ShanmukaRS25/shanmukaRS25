@@ -11,9 +11,7 @@ I'm a passionate **Python Developer** and **Machine Learning Engineer** with 2+ 
 - **Python Development** – Writing clean, modular, production-ready code for web apps, automation, and desktop tools.
 - **Machine Learning & NLP** – Building classifiers, chatbots, sentiment analyzers, and information retrieval systems.
 - **Data Engineering** – Preprocessing, EDA, feature engineering using Pandas, NumPy, SQL.
-- **AI/LLM Integration** – Langchain, Groq API, Retrieval-Augmented Generation (RAG), and LLM-powered tools.
-- **Web & GUI Applications** – Flask, FastAPI, Streamlit, PyQt5 for intuitive user experiences.
-- **Graph Mining** – Feature extraction, link prediction, and similarity analysis for recommendation systems.
+- **Web & GUI Applications** – Flask, FastAPI, PyQt5 for intuitive user experiences.
 
 ---
 
@@ -57,6 +55,21 @@ Developed a PyQt5-based tool using OpenCV to validate industrial design files.
 Engineered a network-based system for contact suggestions using centrality and similarity metrics.
 
 [🔍 View More on GitHub](https://github.com/shanmuka_RS25) 
+
+---
+
+## 🏢 Professional / Research-Driven Projects  
+
+### 🔬 Research Intern Developer 
+**Project: CAD File Difference Application – Python GUI Tool**  
+
+- Developed a **Python GUI tool (PyQt5)** to compare and visualize differences between high-resolution CAD machine drawing images (`.tif`/`.tiff`).  
+- Designed a **dual-pane image interface** with interactive controls (Compare, Save Difference, Next, Previous, Exit) for streamlined design validation workflows.  
+- Built an **OpenCV-powered image comparison pipeline**, identifying pixel-level deviations and **highlighting changes in red** for rapid defect detection.  
+- Implemented **advanced image processing methods** (noise reduction, structural similarity, pixel-difference) to ensure high-accuracy validation of CAD drawings.  
+- Modularized the application into **independent components** (UI rendering, image processing, user interaction) with **robust error handling** and feedback via PyQt dialogs & structured logging.  
+- Designed and executed **comprehensive test cases** on diverse CAD drawings with varying resolutions, content structures, and edge cases to validate accuracy and stability.  
+- Delivered a **deployable Windows installer** using *Inno Setup* with a custom `.iss` script, ensuring smooth client-side installation with bundled dependencies.  
 
 ---
 
@@ -106,4 +119,4 @@ Engineered a network-based system for contact suggestions using centrality and s
 ---
 
 Made with ❤️ using Markdown, GitHub Actions, and open-source tools  
-Theme: **Cyberpunk Style** | Proudly powered by [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) 
+Theme: **Cyberpunk Style** | Proudly powered by [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)  
