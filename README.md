@@ -1,11 +1,13 @@
 # 👋 Hi, I'm Shanmuka Srikar | Software Engineer – Python & Machine Learning💻🧠
 
 
-I'm a passionate **Python Developer** and **Machine Learning Engineer** with experience building scalable applications and intelligent systems. My work revolves around transforming complex data into meaningful insights and robust software solutions.
+I'm a Python Developer with an experience in software development and machine learning. Skilled in building scalable applications and deploying AI-driven solutions with a strong foundation in algorithms, data structures, and system design. Contributed to research-driven application development in image processing and computer vision for solving real-world visual comparison and analysis
+problems. Proficient with SQL and NoSQL databases. Passionate about transforming ideas into impactful solutions with technology
+
 
 ---
 
-## 🧑‍💻 Technical Focus Areas  
+##  Technical Focus Areas  
 
 - **Python Development** – Writing clean, modular, production-ready code for web apps, automation, and desktop tools.  
 - **Machine Learning & NLP** – Building classifiers, chatbots, sentiment analyzers, and information retrieval systems, Scikit-learn, NLTK, OpenCV, Joblib  
@@ -14,7 +16,7 @@ I'm a passionate **Python Developer** and **Machine Learning Engineer** with exp
 
 ---
 
-## 📘 Advanced Computer Science Knowledge  
+##  Core Computer Science Knowledge  
 
 - **Operating Systems** – Processes, threads, system calls, inter-process communication (IPC), concurrency and synchronization, deadlock handling, CPU & I/O scheduling, memory management (paging, segmentation, virtual memory), file systems.  
 
@@ -84,33 +86,35 @@ Designed an NLP pipeline to analyze patient feedback on prescribed drugs for Aln
 
 ---
 
-## 🏢 Professional / Research-Driven Projects  
+## Professional / Research-Driven Projects  
 
-### 🔬 Research Intern Developer 
+###  Research Intern Developer 
 **Project: CAD File Difference Application – Python GUI Tool**  
 
 - Developed a **Python GUI tool (PyQt5)** to compare and visualize differences between high-resolution CAD machine drawing images (`.tif`/`.tiff`).  
 - Designed a **dual-pane image interface** with interactive controls (Compare, Save Difference, Next, Previous, Exit) for streamlined design validation workflows.  
 - Built an **OpenCV-powered image comparison pipeline**, identifying pixel-level deviations and **highlighting changes in red** for rapid defect detection.  
 - Implemented **advanced image processing methods** (noise reduction, structural similarity, pixel-difference) to ensure high-accuracy validation of CAD drawings.  
-- Modularized the application into **independent components** (UI rendering, image processing, user interaction) with **robust error handling** and feedback via PyQt dialogs & structured logging.  
+- Modularized the application into **independent components** (UI rendering, image processing, user interaction) with **robust error handling** and feedback via PyQt dialogs & structured logging. 
 - Designed and executed **comprehensive test cases** on diverse CAD drawings with varying resolutions, content structures, and edge cases to validate accuracy and stability.  
 - Delivered a **deployable Windows installer** using *Inno Setup* with a custom `.iss` script, ensuring smooth client-side installation with bundled dependencies.  
 
 ---
 
 
-## Connect With Me 
+## 🔗 Connect With Me  
 
-📧 **Email:** [shanmukasrikar99@gmail.com](mailto:shanmukasrikar99@gmail.com)  
-<a href="mailto:shanmukasrikar99@gmail.com">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"  width="36" height="36" />
-</a>&nbsp;
-<a href="https://linkedin.com/in/shanmuka-srikar"> 
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  width="24" height="24" />
-</a>&nbsp;
+<p align="left">
+  <a href="mailto:shanmukasrikar99@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40" alt="Email"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/shanmuka-srikar-646a15143/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://discord.com/users/shannu_rs25">
+    <img src="https://www.svgrepo.com/show/353655/discord-icon.svg" width="40" height="45" alt="Discord"/>
+  </a>
+</p>
 
----
 
-Made with ❤️ using Markdown, GitHub Actions, and open-source tools  
-Theme: **Cyberpunk Style** | Proudly powered by [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)  
+
