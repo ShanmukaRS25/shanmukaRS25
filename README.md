@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Shanmuka Srikar | ** Software Engineer – Python & Machine Learning💻🧠** 
+# 👋 Hi, I'm Shanmuka Srikar | Software Engineer – Python & Machine Learning💻🧠
 
 
 I'm a Python Developer with an experience in software development and machine learning. Skilled in building scalable applications and deploying AI-driven solutions with a strong foundation in algorithms, data structures, and system design. Contributed to research-driven application development in image processing and computer vision for solving real-world visual comparison and analysis
