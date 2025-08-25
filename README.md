@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Shanmuka Srikar | Software Engineer – Python & Machine Learning💻🧠
+# 👋 Hi, I'm Shanmuka Srikar | ** Software Engineer – Python & Machine Learning💻🧠** 
 
 
 I'm a Python Developer with an experience in software development and machine learning. Skilled in building scalable applications and deploying AI-driven solutions with a strong foundation in algorithms, data structures, and system design. Contributed to research-driven application development in image processing and computer vision for solving real-world visual comparison and analysis
@@ -86,10 +86,9 @@ Designed an NLP pipeline to analyze patient feedback on prescribed drugs for Aln
 
 ---
 
-## Professional / Research-Driven Projects  
+## Professional / Research-Driven Project
 
-###  Research Intern Developer 
-**Project: CAD File Difference Application – Python GUI Tool**  
+### Project: CAD File Difference Application – Python GUI Tool
 
 - Developed a **Python GUI tool (PyQt5)** to compare and visualize differences between high-resolution CAD machine drawing images (`.tif`/`.tiff`).  
 - Designed a **dual-pane image interface** with interactive controls (Compare, Save Difference, Next, Previous, Exit) for streamlined design validation workflows.  
