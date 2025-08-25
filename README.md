@@ -1,37 +1,6 @@
 # 👋 Hi, I'm Shanmuka Srikar | Software Engineer – Python & Machine Learning💻🧠
 
 
-I'm a Python Developer with an experience in software development and machine learning. Skilled in building scalable applications and deploying AI-driven solutions with a strong foundation in algorithms, data structures, and system design. Contributed to research-driven application development in image processing and computer vision for solving real-world visual comparison and analysis
-problems. Proficient with SQL and NoSQL databases. Passionate about transforming ideas into impactful solutions with technology
-
-
----
-
-##  Technical Focus Areas  
-
-- **Python Development** – Writing clean, modular, production-ready code for web apps, automation, and desktop tools.  
-- **Machine Learning & NLP** – Building classifiers, chatbots, sentiment analyzers, and information retrieval systems, Scikit-learn, NLTK, OpenCV, Joblib  
-- **Data Engineering** – Preprocessing, EDA, feature engineering using Pandas, NumPy, SQL.  
-- **Web & GUI Applications** – Flask, FastAPI, Streamlit, PyQt5 for intuitive user experiences.  
-
----
-
-##  Core Computer Science Knowledge  
-
-- **Operating Systems** – Processes, threads, system calls, inter-process communication (IPC), concurrency and synchronization, deadlock handling, CPU & I/O scheduling, memory management (paging, segmentation, virtual memory), file systems.  
-
-- **Databases** – ER modeling, relational algebra & SQL, schema normalization, integrity constraints, indexing (B, B+ trees), file organization, transactions (ACID), and concurrency control.  
-
-- **Computer Networks** – OSI & TCP/IP layers, packet & circuit switching, data link (framing, error detection, Ethernet/MAC), routing algorithms (Dijkstra, Bellman-Ford, flooding), IPv4 addressing & subnetting, NAT, ARP/DHCP/ICMP, transport protocols (TCP, UDP, congestion control, sockets), application protocols (DNS, HTTP, SMTP, FTP, Email).  
-
-- **Algorithms & Data Structures** – P-NP Classes, Searching, sorting, hashing, asymptotic complexity analysis, divide & conquer, greedy, dynamic programming, graph algorithms (DFS, BFS, shortest paths, MSTs).  
-
-- **Compiler Design** – Lexical analysis, parsing, syntax-directed translation, intermediate code generation, runtime environments, and data flow optimizations (constant propagation, liveness analysis, common subexpression elimination).  
-
----
-
-## 🛠 Tech Stack
-
 [![C](https://img.shields.io/badge/c-%2300599C?logo=c&style=for-the-badge)](https://learn.microsoft.com/en-us/cpp/c-language/)
 [![C++](https://img.shields.io/badge/c%2B%2B-%2300599C?logo=cplusplus&style=for-the-badge)](https://cplusplus.com/doc/)
 [![Assembly](https://img.shields.io/badge/assembly-%23ASM?logo=asm&style=for-the-badge)](https://en.wikipedia.org/wiki/Assembly_language)
@@ -52,6 +21,42 @@ problems. Proficient with SQL and NoSQL databases. Passionate about transforming
 [![LaTeX](https://img.shields.io/badge/latex-%23008080?logo=latex&style=for-the-badge)](https://www.latex-project.org/help/documentation/)
 [![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4?logo=google-cloud&style=for-the-badge)](https://cloud.google.com/docs)
 [![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900?logo=nVIDIA&style=for-the-badge)](https://developer.nvidia.com/cuda-zone)
+
+
+_I'm a Python Developer with an experience in software development and machine learning. Skilled in building scalable applications and deploying AI-driven solutions with a strong foundation in algorithms, data structures, and system design. Contributed to research-driven application development in image processing and computer vision for solving real-world visual comparison and analysis
+problems. Proficient with SQL and NoSQL databases. Passionate about transforming ideas into impactful solutions with technology_
+
+
+---
+
+##  Technical Focus Areas  
+
+- **Python Development** – Writing clean, modular, production-ready code for web apps, automation, and desktop tools.  
+- **Machine Learning & NLP** – Building classifiers, chatbots, sentiment analyzers, and information retrieval systems, Scikit-learn, NLTK, OpenCV, Joblib  
+- **Data Engineering** – Preprocessing, EDA, feature engineering using Pandas, NumPy, SQL.  
+- **Web & GUI Applications** – Flask, FastAPI, Streamlit, PyQt5 for intuitive user experiences.  
+
+---
+
+##  Core CS & ML Knowledge  
+
+- **Operating Systems** – Processes, threads, system calls, inter-process communication (IPC), concurrency and synchronization, deadlock handling, CPU & I/O scheduling, memory management (paging, segmentation, virtual memory), file systems.  
+
+- **Databases** – ER modeling, relational algebra & SQL, schema normalization, integrity constraints, indexing (B, B+ trees), file organization, transactions (ACID), and concurrency control.  
+
+- **Computer Networks** – OSI & TCP/IP layers, packet & circuit switching, data link (framing, error detection, Ethernet/MAC), routing algorithms (Dijkstra, Bellman-Ford, flooding), IPv4 addressing & subnetting, NAT, ARP/DHCP/ICMP, transport protocols (TCP, UDP, congestion control, sockets), application protocols (DNS, HTTP, SMTP, FTP, Email).  
+
+- **Algorithms & Data Structures** – P, NP Classes, Searching, sorting, hashing, asymptotic complexity analysis, divide & conquer, greedy, dynamic programming, graph algorithms (DFS, BFS, shortest paths, MSTs).  
+
+- **Compiler Design** – Lexical analysis, parsing, syntax-directed translation, intermediate code generation, runtime environments, and data flow optimizations (constant propagation, liveness analysis, common subexpression elimination).
+
+- **Supervised Learning** - Problems: Regression and classification problems.
+  Models: Simple linear regression, multiple linear regression, ridge regression, logistic regression, KNN, naive Bayes classifier, LDA, SVM, decision trees, XGBoost, multi-layer perceptron,feed-forward neural network.
+  Concepts & Techniques: Bias-variance trade-off, cross-validation methods (leave-one-out (LOO), k-folds).
+
+- **Unsupervised Learning** - Clustering: K-means/k-medoid, hierarchical clustering (top-down, bottom-up: single-linkage, multiple-linkage).
+
+- **Dimensionality Reduction** - PCA, t-SNE, SVD.
 
 ---
 
