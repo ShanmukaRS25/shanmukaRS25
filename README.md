@@ -1,4 +1,5 @@
-# 👋 Hi, I'm Shanmuka Srikar | Software Engineer – Python & Machine Learning💻🧠
+# 👋 Hi, I'm **SHANMUKA SRIKAR**
+## Software Engineer – Python, Machine Learning, Computer Vision💻🧠👀##
 
 
 [![C](https://img.shields.io/badge/c-%2300599C?logo=c&style=for-the-badge)](https://learn.microsoft.com/en-us/cpp/c-language/)
