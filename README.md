@@ -88,8 +88,6 @@ Designed an NLP pipeline to analyze patient feedback on prescribed drugs for Aln
   
 
 
-[🔍 View More on GitHub](https://github.com/shanmuka_RS25) 
-
 ---
 
 ## Professional / Research-Driven Project
@@ -104,7 +102,9 @@ Designed an NLP pipeline to analyze patient feedback on prescribed drugs for Aln
 - Designed and executed **comprehensive test cases** on diverse CAD drawings with varying resolutions, content structures, and edge cases to validate accuracy and stability.  
 - Delivered a **deployable Windows installer** using *Inno Setup* with a custom `.iss` script, ensuring smooth client-side installation with bundled dependencies.  
 
-The image describe the image proceesing of the machine CAD drawings and able to highlight even very fine deveations or differences
+### The following image illustrates the image processing capabilities of the application, which enables precise analysis and visualization of CAD drawings, effectively highlighting deviations and differences.
+- **Image Comparison Interface**: The application features a dual-pane layout, displaying the original CAD drawing in the left pane and the modified image in the right pane, allowing for direct visual comparison.
+- **Automated Difference Highlighting**: Upon loading both images and clicking the "Compare" button, the system identifies and highlights the differences between the original and modified images, annotating the modified image with red highlights to clearly illustrate the changes.
 <img width="1919" height="877" alt="image" src="https://github.com/user-attachments/assets/7e7ab49e-e215-4c97-a551-4930bdb7b3be" />
 
 ---
