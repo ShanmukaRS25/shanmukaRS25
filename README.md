@@ -90,7 +90,7 @@ Designed an NLP pipeline to analyze patient feedback on prescribed drugs for Aln
 
 ---
 
-## Professional / Research-Driven Project
+## Research-Driven Project
 
 ### CAD File Difference Application – Python GUI Tool
 
