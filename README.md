@@ -24,89 +24,99 @@
 [![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900?logo=nVIDIA&style=for-the-badge)](https://developer.nvidia.com/cuda-zone)
 
 
-_I'm a Python Developer with an experience in software development and machine learning. Skilled in building scalable applications and deploying AI-driven solutions with a strong foundation in algorithms, data structures, and system design. Contributed to research-driven application development in image processing and computer vision for solving real-world visual comparison and analysis
-problems. Proficient with SQL and NoSQL databases. Passionate about transforming ideas into impactful solutions with technology_
+## 🌟 Featured Projects
 
+### 🏥 Enterprise Healthcare RAG Platform
 
----
+**Tech Stack:** AWS Bedrock, Amazon SageMaker, LangChain, OpenSearch Vector Database, Aurora PostgreSQL, Amazon S3, AWS Glue, AWS Step Functions, FastAPI
 
-##  Technical Focus Areas  
+Built an enterprise-grade Retrieval-Augmented Generation (RAG) platform for intelligent healthcare and regulatory document analysis.
 
-- **Python Development** – Writing clean, modular, production-ready code for web apps, automation, and desktop tools.  
-- **Machine Learning & NLP** – Building classifiers, chatbots, sentiment analyzers, and information retrieval systems, Scikit-learn, NLTK, OpenCV, Joblib  
-- **Data Engineering** – Preprocessing, EDA, feature engineering using Pandas, NumPy, SQL.  
-- **Web & GUI Applications** – Flask, FastAPI, Streamlit, PyQt5 for intuitive user experiences.  
+#### Key Highlights
 
----
+* Architected and deployed a scalable RAG solution using AWS Bedrock and LangChain.
+* Implemented semantic vector search with OpenSearch Vector Database for contextual information retrieval.
+* Developed a hybrid retrieval framework combining vector search and Text-to-SQL querying.
+* Built automated ingestion and embedding pipelines for PDFs, images, JSON files, and structured datasets.
+* Developed FastAPI microservices delivering real-time AI responses with low-latency inference.
+* Implemented AI guardrails including prompt injection protection, sensitive data masking, and grounded response validation.
+* Automated ingestion, indexing, and retrieval workflows using AWS Step Functions.
+* Monitored retrieval quality, hallucination rates, and model performance using Amazon SageMaker.
 
-##  Core CS & ML Knowledge  
+#### Impact
 
-- **Operating Systems** – Processes, threads, system calls, inter-process communication (IPC), concurrency and synchronization, deadlock handling, CPU & I/O scheduling, memory management (paging, segmentation, virtual memory), file systems.  
-
-- **Databases** – ER modeling, relational algebra & SQL, schema normalization, integrity constraints, indexing (B, B+ trees), file organization, transactions (ACID), and concurrency control.  
-
-- **Computer Networks** – OSI & TCP/IP layers, packet & circuit switching, data link (framing, error detection, Ethernet/MAC), routing algorithms (Dijkstra, Bellman-Ford, flooding), IPv4 addressing & subnetting, NAT, ARP/DHCP/ICMP, transport protocols (TCP, UDP, congestion control, sockets), application protocols (DNS, HTTP, SMTP, FTP, Email).  
-
-- **Algorithms & Data Structures** – P, NP Classes, Searching, sorting, hashing, asymptotic complexity analysis, divide & conquer, greedy, dynamic programming, graph algorithms (DFS, BFS, shortest paths, MSTs).  
-
-- **Compiler Design** – Lexical analysis, parsing, syntax-directed translation, intermediate code generation, runtime environments, and data flow optimizations (constant propagation, liveness analysis, common subexpression elimination).
-
-- **Supervised Learning** - Problems: Regression and classification problems.
-  Models: Simple linear regression, multiple linear regression, ridge regression, logistic regression, KNN, naive Bayes classifier, LDA, SVM, decision trees, XGBoost, multi-layer perceptron,feed-forward neural network.
-  Concepts & Techniques: Bias-variance trade-off, cross-validation methods (leave-one-out (LOO), k-folds).
-
-- **Unsupervised Learning** - Clustering: K-means/k-medoid, hierarchical clustering (top-down, bottom-up: single-linkage, multiple-linkage).
-
-- **Dimensionality Reduction** - PCA, t-SNE, SVD.
+* Improved compliance workflows and document accessibility by approximately **50%**.
+* Significantly reduced manual effort through AI-powered search and retrieval.
 
 ---
 
-## 🌟 Featured Projects 
+### ☁️ AWS-Based CAD File Difference Platform
 
-### CAD File Comparison Tool  
-Developed a PyQt5-based desktop application for validating industrial CAD drawings.  
-- Built a dual-pane interface with interactive controls (Compare, Save Difference, Next/Previous) for streamlined design validation.  
-- Implemented an OpenCV-based pipeline to highlight pixel-level deviations in `.tif/.tiff` files.  
-- Integrated seamless file browsing, rendering, and conversion for handling large high-resolution CAD images.  
-- Enhanced accuracy by evaluating techniques like noise reduction, structural similarity, and pixel-difference methods.  
-- Delivered a deployable Windows installer using Inno Setup with all dependencies bundled for end-user delivery.
+**Tech Stack:** Amazon S3, API Gateway, AWS Lambda, AWS Fargate, Amazon SageMaker, AWS Step Functions, DynamoDB, CloudWatch, OpenCV, PyTorch
 
-### Intelligent Malware Classification Using System Telemetry  
-Built a machine learning framework to detect system infection risks using anonymized telemetry data.  
-- Performed EDA to analyze class distribution and handle imbalance across malware families.  
-- Extracted opcode and segment-level statistical features from `.asm` files and validated them with t-SNE visualization.  
-- Trained multiple classifiers (KNN, Logistic Regression, Random Forest, XGBoost) to identify malware families.  
-- Improved performance with hyperparameter tuning, stratified splits, and log-loss evaluation.ics.
-  
-### Drug Review Sentiment Analysis  
-Designed an NLP pipeline to analyze patient feedback on prescribed drugs for Alnylam Pharmaceuticals.  
-- Conducted EDA on structured drug review datasets, uncovering sentiment distributions and usage patterns.  
-- Preprocessed raw reviews through cleaning, tokenization, stopword removal, and lemmatization.  
-- Applied TF-IDF vectorization and trained Logistic Regression in a One-vs-Rest setup for sentiment classification.  
-- Addressed class imbalance using micro-averaged F1-score for evaluation.  
-- Generated analytical insights like sentiment distribution per drug and frequent symptom–feedback pairings to aid medical teams.
-  
+Developed a cloud-native computer vision platform for automated CAD drawing validation and engineering design comparison.
 
+#### Key Highlights
+
+* Designed scalable image ingestion and orchestration pipelines using AWS serverless technologies.
+* Implemented OpenCV and SSIM-based comparison algorithms for structural deviation detection.
+* Developed CNN-based comparison models using PyTorch and SageMaker.
+* Built REST APIs for image uploads, processing workflows, and result visualization.
+* Generated visual difference reports with highlighted defects, bounding boxes, and confidence scores.
+* Integrated monitoring, auditing, and job-tracking capabilities using DynamoDB and CloudWatch.
+* Designed asynchronous workflows using AWS Step Functions for large-scale image processing.
+
+#### Impact
+
+* Achieved **90%+ defect detection accuracy**.
+* Reduced manual inspection effort by approximately **60%**.
 
 ---
 
-## Research-Driven Project
+### ⚡ Energy Consumption Analytics Platform
 
-### CAD File Difference Application – Python GUI Tool
+**Tech Stack:** Azure Data Factory, Azure Data Lake Storage Gen2, Azure Databricks, Delta Lake, Azure Synapse Analytics, Power BI
 
-- Developed a **Python GUI tool (PyQt5)** to compare and visualize differences between high-resolution CAD machine drawing images (`.tif`/`.tiff`).  
-- Designed a **dual-pane image interface** with interactive controls (Compare, Save Difference, Next, Previous, Exit) for streamlined design validation workflows.  
-- Built an **OpenCV-powered image comparison pipeline**, identifying pixel-level deviations and **highlighting changes in red** for rapid defect detection.  
-- Implemented **advanced image processing methods** (noise reduction, structural similarity, pixel-difference) to ensure high-accuracy validation of CAD drawings.  
-- Modularized the application into **independent components** (UI rendering, image processing, user interaction) with **robust error handling** and feedback via PyQt dialogs & structured logging. 
-- Designed and executed **comprehensive test cases** on diverse CAD drawings with varying resolutions, content structures, and edge cases to validate accuracy and stability.  
-- Delivered a **deployable Windows installer** using *Inno Setup* with a custom `.iss` script, ensuring smooth client-side installation with bundled dependencies.  
+Designed and implemented a scalable Azure-based analytics platform for monitoring and forecasting large-scale energy consumption data.
 
-### The following image illustrates the image processing capabilities of the application, which enables precise analysis and visualization of CAD drawings, effectively highlighting deviations and differences.
-- **Image Comparison Interface**: The application features a dual-pane layout, displaying the original CAD drawing in the left pane and the modified image in the right pane, allowing for direct visual comparison.
-- **Automated Difference Highlighting**: Upon loading both images and clicking the "Compare" button, the system identifies and highlights the differences between the original and modified images, annotating the modified image with red highlights to clearly illustrate the changes.
+#### Key Highlights
+
+* Built automated ETL pipelines using Azure Data Factory.
+* Processed IoT sensor data, CSV logs, and API feeds into Azure Data Lake Storage.
+* Developed scalable transformation pipelines using Databricks and PySpark.
+* Implemented Delta Lake architecture for reliable and efficient data processing.
+* Created analytical KPI layers using Azure Synapse Analytics.
+* Developed interactive Power BI dashboards with forecasting and anomaly detection capabilities.
+* Performed exploratory data analysis using Python, Pandas, and Matplotlib.
+* Optimized performance using partitioning, caching, and data quality validation techniques.
+
+#### Impact
+
+* Enabled data-driven operational decision-making.
+* Improved reporting efficiency, scalability, and data reliability.
 
 ---
+
+### 🤖 LLM-Driven Unreal Engine Automation
+
+**Tech Stack:** Python, MCP Protocol, Unreal Engine, C++, LLM Integration
+
+Developed an open-source MCP server enabling Large Language Models to control and automate Unreal Engine workflows.
+
+#### Key Highlights
+
+* Built an MCP server exposing **20+ Unreal Engine tools**.
+* Implemented bidirectional Python-C++ communication for seamless engine interaction.
+* Enabled natural language control of actors, blueprints, and editor workflows.
+* Automated 3D asset creation and scene manipulation through LLM-driven commands.
+* Designed an extensible architecture for AI-assisted game development and content creation.
+* Contributed to the open-source ecosystem through reusable Unreal Engine automation tooling.
+
+#### Impact
+
+* Simplified Unreal Engine workflows using conversational AI.
+* Demonstrated practical Agentic AI integration with real-time software systems.
+
 
 
 ## 🔗 Connect With Me  
